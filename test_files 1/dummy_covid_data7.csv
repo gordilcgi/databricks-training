@@ -1,0 +1,101 @@
+Name,Age,State,Covid_Status,Quarantine_Status
+Yara Harris,50,Missouri,N,Y
+Sam Garcia,52,New Hampshire,N,N
+Tina Carter,14,North Dakota,P,Y
+Sam Garcia,62,Arizona,N,Y
+Carol Harris,49,Wyoming,N,Y
+Uma Carter,44,Iowa,P,Y
+Alice Smith,17,Delaware,P,N
+Tina Garcia,76,,P,N
+Frank Brown,7,,P,N
+Olivia Irwin,77,California,Negative,Y
+Bob Foster,64,Utah,N,N
+David Baker,53,Tennessee,N,Y
+Jack Clark,28,Mississippi,Positive,N
+Victor Jones,71,New Jersey,N,Y
+Xander Kim,5,Tennessee,P,Y
+Wendy Johnson,56,Ohio,N,Y
+Jack Lopez,52,Massachusetts,P,N
+Sam Scott,10,Indiana,N,Y
+Zane Green,71,Georgia,P,N
+Noah Kim,76,Nebraska,N,N
+David Lee,10,Oklahoma,N,N
+Victor Adams,49,Washington,P,N
+Frank Jones,49,New Jersey,N,N
+Sam Davis,79,Rhode Island,N,N
+Tina Brown,21,Hawaii,P,N
+Alice King,70,New York,N,Y
+Mia Scott,43,Utah,N,Y
+Mia Garcia,47,Missouri,N,N
+Zane Carter,53,Rhode Island,P,N
+Zane Hall,74,Maine,N,N
+Victor Lopez,49,New Mexico,P,Y
+Uma Young,48,Minnesota,P,N
+Xander Johnson,28,Maine,P,N
+Wendy Jones,22,Nebraska,P,Y
+Victor White,71,Virginia,P,N
+Yara Scott,53,Florida,P,Y
+Mia Scott,68,Nebraska,P,N
+Bob Johnson,16,Connecticut,P,Y
+Frank Young,18,North Carolina,P,Y
+Frank Adams,33,Delaware,N,Y
+Ivy Jones,29,Virginia,N,Y
+Wendy Turner,65,Arkansas,N,Y
+Ivy Hall,41,South Carolina,N,Y
+Noah Lee,23,Texas,N,N
+Ivy Evans,14,Wisconsin,N,Y
+Wendy Kim,50,Kansas,N,N
+Jack Jones,79,Delaware,N,N
+Carol Kim,77,Mississippi,P,Y
+Yara Young,59,Utah,P,Y
+Zane Green,76,Kansas,N,N
+Noah Johnson,5,Maine,N,N
+Yara Black,57,Utah,P,Y
+Zane Scott,35,Hawaii,P,N
+Bob Johnson,68,Wisconsin,P,Y
+Jack Baker,24,Arkansas,N,N
+Ivy Brown,33,Maine,P,Y
+Liam White,65,Florida,P,Y
+Kelly King,74,Massachusetts,P,N
+Victor White,27,Iowa,P,Y
+Frank Jones,74,Missouri,P,N
+Mia Adams,24,Georgia,N,N
+Zane King,79,Colorado,P,Y
+Quinn Scott,70,Delaware,P,N
+Alice Lewis,19,New Mexico,N,N
+Tina Baker,34,Texas,N,Y
+Uma White,7,Delaware,P,N
+Jack Black,17,Kentucky,P,Y
+Jack Davis,14,New York,N,Y
+Xander Clark,55,North Dakota,N,N
+Uma Hall,30,Tennessee,N,N
+Sam Carter,48,Pennsylvania,P,N
+Carol Baker,68,New York,N,N
+Zane Adams,27,Tennessee,P,N
+Quinn Evans,10,Massachusetts,N,N
+Xander Black,75,Mississippi,N,Y
+Uma Davis,42,Maryland,P,Y
+Wendy Hall,16,Mississippi,P,Y
+Xander Harris,12,Texas,N,N
+Liam Scott,15,Florida,P,Y
+Zane Harris,67,Kentucky,P,Y
+Quinn King,1,New Hampshire,N,N
+Grace White,1,Maryland,N,Y
+Frank Clark,68,Wisconsin,P,Y
+Grace Kim,78,New Jersey,N,Y
+Ivy Clark,57,New Jersey,P,Y
+Uma Scott,29,Missouri,N,Y
+Grace King,55,Rhode Island,P,N
+Bob Irwin,51,Georgia,P,N
+Quinn Johnson,67,Nebraska,N,Y
+Quinn Garcia,42,New Mexico,P,Y
+Olivia Carter,32,South Dakota,N,Y
+Xander Baker,75,Pennsylvania,P,N
+Tina White,49,Minnesota,P,N
+Yara Evans,77,Louisiana,P,Y
+Bob Irwin,11,Maryland,N,N
+Olivia White,49,Nevada,N,Y
+Ivy Garcia,63,Illinois,N,N
+Liam Johnson,42,New Mexico,N,Y
+Uma Adams,46,Rhode Island,N,N
+Alice Black,44,Missouri,N,Y

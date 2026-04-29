@@ -1,0 +1,4 @@
+id,patient_name,diagnosis,last_visit,status
+1,Alice Smith,Hypertension,2026-02-20,update
+2,Bob Jones,Diabetes,2026-02-01,delete
+4,David Kim,Allergy,2026-02-22,new

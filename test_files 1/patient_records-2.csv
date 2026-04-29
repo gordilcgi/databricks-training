@@ -1,0 +1,9 @@
+patient_id|visit_date|age|gender|zipcode|diagnosis_category|ER_wait_time|socioeconomic_index|homelessness_risk_score|repeat_visit_flag
+10005|2026-01-22|65|F|76734|Neurology|97|4|10|Yes
+10015|2026-01-28|37|F|53959|Cardiology|35|2|9|Yes
+10020|2026-01-31|7|M|97200|Oncology|68|6|5|No
+10021|2026-01-09|Two|M|77657|Pediatrics|60|2|6|Yes
+10022|2026-01-02|31|F|23159|Neurology|76|5|7|No
+10023|2026-03-05|35|F|73627|Cardiology|91|1|9|No
+10024|2026-02-17|14|Male|91970|Cardiology|41|5|5|Yes
+10025|2026-02-04|65|F|naperville|Pediatrics|97|4|7|Yes

@@ -1,0 +1,101 @@
+Name,Age,State,Covid_Status,Quarantine_Status
+Alice Brown,-1,New Jersey,P,N
+Victor Young,72,Nebraska,P,N
+Alice Scott,71,Oregon,P,N
+Yara Johnson,22,Utah,N,N
+Tina King,59,Rhode Island,N,Y
+Olivia Smith,57,Missouri,P,N
+Liam Kim,73,Ohio,P,Y
+Frank Black,22,Illinois,N,N
+Quinn Green,54,Iowa,P,N
+Jack Baker,20,Alabama,P,Y
+Victor Lee,27,South Carolina,N,N
+Olivia Smith,80,Vermont,N,Y
+Zane Lopez,74,Pennsylvania,N,Y
+Olivia Green,56,Kansas,P,N
+Carol Garcia,41,North Carolina,N,Y
+Kelly Jones,80,Illinois,P,N
+Carol Carter,47,South Dakota,N,N
+Victor Adams,22,North Dakota,N,N
+Bob Young,49,Utah,N,N
+Olivia Jones,21,North Carolina,N,Y
+Jack Black,50,Ohio,P,Y
+Liam Clark,65,Minnesota,N,Y
+Bob Jones,27,Louisiana,N,Y
+Paul Kim,63,Colorado,N,N
+Mia Lewis,57,New York,N,N
+Henry Johnson,36,South Dakota,P,N
+Sam Lopez,4,Colorado,P,Y
+Frank Jones,63,Kansas,P,N
+Tina Lee,71,Tennessee,N,N
+Xander Harris,68,South Carolina,N,N
+Mia Johnson,80,Missouri,N,N
+Tina Brown,30,New Jersey,N,N
+Carol Clark,15,Pennsylvania,P,Y
+Liam White,70,Colorado,P,N
+Victor Foster,45,Massachusetts,N,N
+Zane White,62,Minnesota,N,N
+Jack Kim,6,South Dakota,P,N
+Henry Adams,57,South Dakota,P,N
+Frank Lopez,18,Kansas,N,N
+Noah Young,77,Delaware,P,Y
+Ivy Kim,68,Idaho,N,N
+Uma Black,19,Indiana,N,N
+Victor Harris,14,South Carolina,N,Y
+Yara Carter,74,Wyoming,P,Y
+Noah Harris,76,Idaho,P,Y
+Yara Harris,48,Minnesota,P,N
+Emily Turner,47,New Jersey,N,N
+Jack White,26,South Carolina,P,Y
+Rachel King,46,Georgia,N,Y
+Yara Garcia,39,Utah,N,Y
+Bob Jones,74,North Carolina,P,N
+Tina Johnson,25,New Hampshire,P,Y
+Emily Evans,34,Indiana,P,Y
+David Harris,57,Wyoming,P,N
+Kelly Evans,14,Indiana,P,N
+Emily Lopez,9,Kentucky,N,Y
+Noah Adams,23,Montana,P,Y
+Uma Garcia,80,New Jersey,N,Y
+Tina Brown,80,Texas,P,Y
+Liam Hall,38,Arizona,N,N
+Rachel Foster,59,Tennessee,P,N
+Rachel Scott,21,North Dakota,P,N
+Noah Young,15,New York,N,Y
+Frank Evans,49,Illinois,N,N
+Olivia Foster,68,Indiana,N,N
+Carol Young,69,Illinois,N,N
+Uma Lopez,29,Connecticut,P,Y
+Rachel Young,38,Hawaii,P,Y
+Paul Scott,71,California,P,Y
+Sam Lopez,55,Mississippi,P,N
+David White,39,Mississippi,N,Y
+Liam Baker,59,Utah,P,Y
+Quinn Lee,57,Washington,P,Y
+Rachel King,13,Minnesota,P,N
+Tina Scott,45,Virginia,P,N
+Jack King,36,West Virginia,N,Y
+Mia Scott,32,New Jersey,N,N
+Quinn Baker,34,Georgia,P,Y
+Zane Lopez,11,Indiana,N,N
+Paul Adams,10,Indiana,P,Y
+Mia White,71,Maine,P,Y
+Jack Lee,56,Maine,N,Y
+Wendy Johnson,32,Mississippi,P,Y
+Bob Evans,22,Mississippi,N,Y
+Grace Young,12,Nebraska,N,N
+Jack Brown,21,Rhode Island,N,N
+Wendy Johnson,51,Connecticut,N,N
+Yara Brown,43,Nevada,N,N
+Tina White,61,Hawaii,N,Y
+David Scott,63,Ohio,N,Y
+Frank Hall,28,Wisconsin,P,N
+Yara Lewis,48,Alaska,N,Y
+Grace Davis,37,Mississippi,N,Y
+Quinn Carter,20,New Mexico,P,N
+Sam Young,32,Indiana,N,Y
+Rachel Hall,59,Pennsylvania,N,N
+Rachel Baker,63,New Mexico,P,Y
+Xander Black,37,North Dakota,N,Y
+Emily Black,23,Wisconsin,P,Y
+Mia Turner,4,South Dakota,N,Y

@@ -1,0 +1,101 @@
+Name,Age,State,Covid_Status,Quarantine_Status,Vaccinated
+Sam Lee,34,Georgia,N,Y,Yes
+Uma Baker,70,Texas,N,N,No
+Bob Smith,56,Missouri,N,Y,Yes
+Mia Garcia,40,South Dakota,N,N,Yes
+Alice Brown,17,New York,N,Y,No
+Victor Lewis,14,Kansas,N,N,Yes
+Bob Turner,38,Indiana,N,Y,No
+Noah Smith,48,Mississippi,N,Y,No
+Jack Baker,40,New Jersey,P,N,No
+Alice Black,67,Colorado,P,Y,Yes
+Quinn Young,71,Kansas,N,N,Yes
+Uma Clark,24,Ohio,P,N,No
+Jack Johnson,40,Iowa,N,Y,No
+Carol Carter,57,Nebraska,P,Y,No
+Kelly Harris,43,Oklahoma,N,Y,Yes
+Noah Jones,1,Tennessee,N,N,Yes
+Liam Carter,55,New York,P,Y,No
+Bob Turner,19,New Mexico,N,Y,Yes
+Carol Carter,39,Montana,N,Y,No
+Olivia Irwin,4,Nebraska,P,Y,Yes
+Emily Kim,44,New Jersey,P,Y,Yes
+Uma Black,20,Louisiana,P,N,No
+Mia Carter,35,Oregon,N,Y,No
+Mia Garcia,32,Louisiana,N,Y,No
+Uma Lee,16,Mississippi,P,Y,Yes
+Tina Smith,22,Tennessee,P,Y,Yes
+Victor Harris,79,Washington,P,N,Yes
+Zane Hall,80,Louisiana,P,N,No
+Xander Adams,66,Oregon,P,N,No
+Uma King,47,Washington,P,Y,Yes
+Quinn Smith,65,Wyoming,P,Y,Yes
+Quinn Evans,70,Virginia,P,N,Yes
+Tina White,9,Delaware,P,N,Yes
+Xander Lewis,47,Colorado,N,N,No
+Grace Lewis,36,Wisconsin,N,N,No
+Rachel Baker,64,Florida,N,Y,No
+Yara Johnson,68,Oklahoma,P,N,No
+Victor Turner,19,Michigan,N,Y,Yes
+Zane Lee,19,New Mexico,P,N,Yes
+Rachel Harris,43,Missouri,P,Y,No
+Kelly Lee,43,Georgia,N,N,No
+Emily Black,20,New Jersey,P,Y,Yes
+Frank Smith,18,Alaska,N,Y,No
+Emily Davis,48,Arkansas,N,N,Yes
+Quinn Johnson,53,Louisiana,N,Y
+David Smith,38,Texas,N,N,No
+Zane Scott,42,Pennsylvania,P,N,Yes
+David Lopez,34,New Hampshire,N,Y
+Wendy Kim,42,Oregon,P,N,Yes
+Quinn Irwin,70,Nevada,P,N,Yes
+Bob Adams,10,Alaska,N,Y,Yes
+Sam Green,30,Iowa,N,N,Yes
+Paul Garcia,72,Wisconsin,P,Y,Yes
+Frank Garcia,61,Mississippi,P,N,No
+Liam Smith,59,Louisiana,P,Y,Yes
+Sam Evans,46,Maryland,N,N,No
+Henry Irwin,45,Utah,P,N,Yes
+Paul Carter,37,Louisiana,P,N,No
+Zane Turner,59,Michigan,P,Y,No
+Henry Green,52,Hawaii,P,Y,Yes
+Tina Lee,56,Alaska,P,N,No
+David Black,2,Idaho,N,N,No
+Yara Smith,68,Alaska,P,Y,Yes
+Grace Lopez,11,Colorado,P,N,Yes
+Rachel Brown,36,Tennessee,P,Y,No
+David King,42,Iowa,N,Y,Yes
+Uma Irwin,66,Maryland,P,N,No
+Frank White,11,Pennsylvania,N,N,Yes
+Jack Harris,57,Utah,N,N,Yes
+Henry Carter,71,Maryland,P,N,No
+Tina Smith,12,Virginia,N,N,No
+Kelly Evans,4,Ohio,P,N,Yes
+Grace Black,14,New Jersey,N,N,No
+Quinn Turner,57,Wyoming,P,Y,No
+Frank Baker,47,Arkansas,P,N,No
+David Turner,69,Alabama,N,N,Yes
+Kelly Lee,71,Louisiana,N,Y,No
+Henry Carter,67,Maine,P,Y,No
+Ivy Lee,73,South Carolina,P,N,Yes
+Jack Garcia,32,Minnesota,P,Y,Yes
+Henry Garcia,29,Colorado,N,N,Yes
+Carol Johnson,49,Mississippi,N,N,Yes
+David Kim,74,Michigan,P,Y,Yes
+Noah King,72,Idaho,P,Y,No
+Emily Evans,74,Pennsylvania,N,N,No
+Rachel Baker,37,Tennessee,P,Y,Yes
+Uma Black,29,South Dakota,P,N,Yes
+Sam Turner,13,Michigan,P,N,Yes
+Alice Turner,8,Idaho,P,Y,Yes
+Paul Scott,19,Alabama,N,N,No
+Olivia Clark,78,Kentucky,P,Y
+Mia White,28,Tennessee,P,Y,Yes
+Wendy Clark,2,West Virginia,P,N,Yes
+Zane Davis,77,Oregon,P,N
+Liam Adams,29,Maine,P,Y
+Liam Garcia,47,West Virginia,N,Y
+Olivia Foster,45,Texas,P,N,Yes
+Ivy Baker,2,Kansas,N,Y,Yes
+Yara Davis,16,Iowa,P,N,Yes
+Victor Brown,39,Alaska,P,Y,Yes

@@ -1,0 +1,101 @@
+Name,Age,State,Covid_Status,Quarantine_Status
+Yara Clark,41,Nebraska,N,N
+Wendy Irwin,54,Delaware,N,N
+Bob Jones,14,Virginia,P,Y
+Olivia Lewis,52,Idaho,N,N
+Wendy Evans,8,Nevada,P,Y
+Uma Carter,63,Arkansas,N,N
+Zane Hall,18,Arkansas,P,Y
+Kelly Baker,22,Florida,N,Y
+Grace Irwin,5,Louisiana,P,N
+Wendy Kim,76,Nebraska,P,Y
+Mia Evans,7,Iowa,N,Y
+Tina Lewis,59,Ohio,P,Y
+Frank Carter,80,Michigan,P,Y
+Henry Adams,39,Virginia,N,Y
+Ivy Kim,59,South Carolina,N,Y
+Zane Green,9,South Carolina,P,N
+Carol King,8,New Mexico,N,N
+Rachel Jones,31,Iowa,P,N
+Kelly Black,50,Indiana,P,Y
+Victor Johnson,73,Colorado,N,N
+Sam Garcia,39,Wisconsin,P,Y
+Zane Clark,22,Alaska,N,Y
+Zane King,18,Florida,P,Y
+Ivy Scott,21,New York,N,N
+Jack Kim,47,Oklahoma,P,N
+Frank Turner,64,North Carolina,P,Y
+Rachel White,35,Hawaii,P,N
+Noah Smith,65,Hawaii,N,N
+Noah Adams,69,Oregon,P,Y
+Sam King,20,Rhode Island,P,Y
+Paul Harris,61,Delaware,N,Y
+Xander Smith,17,Mississippi,N,Y
+Noah Evans,45,Ohio,P,Y
+Zane Hall,37,Arizona,P,N
+Kelly Brown,17,Alaska,N,Y
+Wendy Lee,31,California,N,N
+Carol Green,70,Alabama,P,N
+Ivy Garcia,70,Mississippi,P,N
+David Brown,67,Idaho,P,Y
+Victor White,65,Wyoming,P,N
+Mia Hall,26,New Jersey,P,N
+Alice Foster,4,Ohio,N,Y
+Kelly Smith,40,Arkansas,P,Y
+Paul Foster,52,Utah,P,Y
+Rachel Lopez,39,Indiana,P,N
+Ivy Baker,17,Minnesota,P,N
+Kelly Lewis,2,Montana,P,N
+David Kim,45,Texas,P,Y
+Grace Adams,13,Maryland,P,N
+David Black,5,Ohio,P,N
+Uma Hall,70,South Dakota,N,Y
+Paul Green,36,Kansas,N,N
+David Lee,18,Hawaii,N,N
+Uma Hall,60,Maine,N,N
+Olivia Lee,53,Arkansas,N,N
+Carol Green,45,South Dakota,P,Y
+Yara Turner,56,Maryland,N,N
+Carol Lopez,43,Alabama,P,Y
+Grace Evans,43,Michigan,P,Y
+Xander Young,78,Kansas,N,Y
+Yara King,39,North Carolina,P,N
+Emily Lopez,14,South Carolina,N,Y
+Bob Smith,56,Florida,N,Y
+Paul Young,64,Oregon,P,Y
+Xander Lewis,28,Vermont,P,N
+Yara Lewis,61,Delaware,P,N
+Sam Lee,7,Alabama,N,N
+Grace Hall,13,South Dakota,P,N
+Wendy Garcia,7,Massachusetts,N,N
+Jack Black,60,Indiana,N,N
+Grace Carter,7,Washington,P,Y
+Ivy Turner,78,Wyoming,P,N
+Xander Lewis,60,California,P,Y
+Jack Kim,15,Missouri,N,N
+Zane Scott,7,Virginia,P,N
+Bob Scott,34,Maine,N,N
+Frank Lewis,75,Utah,P,N
+Ivy Black,17,New York,N,Y
+Grace Clark,56,New Jersey,P,Y
+Rachel King,70,Arkansas,N,N
+Paul Evans,54,Alaska,N,Y
+Mia Kim,50,Mississippi,N,Y
+Jack Kim,49,Vermont,N,Y
+Quinn Irwin,4,Delaware,N,Y
+Wendy Irwin,20,Iowa,P,N
+Yara Adams,27,Tennessee,N,N
+Jack Carter,17,Florida,N,N
+Paul Clark,47,New York,N,N
+Ivy Turner,68,Delaware,P,N
+Yara Davis,49,Iowa,N,Y
+Emily Baker,14,New Mexico,N,Y
+Alice Garcia,33,South Dakota,N,Y
+Mia Foster,3,Utah,P,N
+David Smith,25,South Carolina,P,N
+Sam Brown,61,Wisconsin,P,N
+Kelly Lee,56,Maryland,P,N
+Sam Garcia,17,Virginia,P,N
+Sam Lopez,68,Minnesota,P,N
+Liam Irwin,36,South Carolina,N,Y
+Alice Kim,3,Rhode Island,P,Y
